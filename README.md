@@ -2,7 +2,7 @@
 
 A personal **GRE vocabulary & math** flashcard app built for daily spaced-repetition revision. Runs as a Progressive Web App (PWA) and can be packaged as an **Android APK** via Capacitor.
 
-Every word and math technique you learn — whether added today or months ago — is available on the home screen as **random flashcard revision**, so nothing ever gets left behind.
+Every word and math technique you learn whether added today or months ago is available on the home screen as **random flashcard revision**, so nothing ever gets left behind.
 
 ![Technologies](https://img.shields.io/badge/React_19-61DAFB?logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
